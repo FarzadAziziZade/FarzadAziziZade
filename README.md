@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @FarzadAziziZade
-- 👀 I’m interested in Robotics, Control and Automation, Machine Learning, Manufacturing Systems, Renewable Energies, and Energy Conversion.
 - 🌱 I’m currently learning ML
 - 📫 PM me on Twitter
 - 🎥 My YouTube Channel: https://www.youtube.com/channel/UCLtG2lKK6xNM8diqsiL4Wcw
