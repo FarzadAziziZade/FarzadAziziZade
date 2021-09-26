@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Farzad Azizi Zade
-- 🌱 I’m currently working on ML and Python
+- 🌱 I’m currently learning Reinforcement Learning with Python
 - 📫 PM me on Twitter
 - 🔍 My research interests are Robotics, Control, Automation, Machine Learning, Manufacturing Systems, Fluid Mechanics, CFD, Numerical Simulation, Heat Transfer, Sustainable Energies, and Energy Conservation.
 - 🔗 Contact me:
