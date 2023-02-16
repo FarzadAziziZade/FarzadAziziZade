@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farzad Azizi Zade
 - 🌱 I’m currently learning Reinforcement Learning with Python
 - 📫 PM me on Twitter
-- 🤩 Interested in ML, RL, and DL
+- 🤩 Interested in ML, RL, and DL - ROS - Numerical modeling
 - 🔗 Contact me:
 
 <a target="_blank" href="https://www.linkedin.com/in/farzad-azizi-zade-a92749197/">
